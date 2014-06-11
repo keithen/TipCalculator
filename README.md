@@ -1,5 +1,4 @@
-# TipCalculator
-=============
+# Tip Calculator
 
 Assignment 1 for CodePath Android class
 by Keithen Hayenga
@@ -20,3 +19,10 @@ User Stories:
  * [ ] Optional: Experiment with trying input widgets to replace the buttons and/or textviews
  * [ ] Optional: Improve the user interface and experience by using images and/or colors
 
+Notes:
+
+Walkthrough of user stories:
+
+![Video Walkthrough](TipCalculatorKeithen.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
