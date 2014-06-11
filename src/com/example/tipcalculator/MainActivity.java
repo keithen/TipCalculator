@@ -65,7 +65,7 @@ public class MainActivity extends Activity {
 	 }
 		
 		private void displayTip(double tip) {
-		 tipTextView.setText(String.valueOf(tip));
+			 tipTextView.setText(String.format("%.2f", tip));
 	 }
 		
 	 public void on10PercentClick(View view) {
